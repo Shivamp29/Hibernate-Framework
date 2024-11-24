@@ -27,4 +27,4 @@ Defination :
   - An apllication which uses a POJO Implementation is known as LightWeited Applications
 
 ex. of POJO class 
-  see the code ex " POJOImpl.java "
+  see the code ex " Employee.java "
