@@ -17,12 +17,12 @@
           1. Invasive Framework
           2. Non-Invasive Framework
 
-     ** 1. Invasive Framework :**
+     **1. Invasive Framework :**
            - A framework which forces a programmer to extends its classes and implements its intefaces is known as Invasive Framework.
            - ex.
                - EJB framework
 
-     ** 2. Non-Invasive Framework :**
+     **2. Non-Invasive Framework :**
            - A framework which will not forces a programmer to extends its classes and implements its interfaces is known as Non-Invasive Framework.
            - ex.
                - Hibernate
